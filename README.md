@@ -1,16 +1,19 @@
-## Hi there 👋
+### GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=AmirArbieto&show_icons=true&theme=radical" alt="Amir's GitHub stats" width="100%" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirArbieto&layout=compact&theme=radical" alt="Top Languages" width="100%" /></td>
+    </tr>
+  </table>
+</div>
 
-<!--
-**AmirArbieto/AmirArbieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AmirArbieto&theme=radical&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" width="95%" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Streak Stats
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirArbieto&theme=radical" alt="GitHub Streak" width="95%" />
+</div>
